@@ -12,7 +12,7 @@ print(usuarios[33:37])
 
 #¿Qué problemas pueden surgir si otra persona quiere buscar a un usuario e ingresa manualmente su nombre? ¿Cómo solucionarías este problema?#
 
-#No entiendo la pregunta. Dado que los nombres están en un string no veo como una persona podría buscar por nombre. Lo ideal sería transformarlo en una lista y ocupar la función index.# 
+#No entiendo la pregunta. Dado que los nombres están en un string no veo como una persona podría buscar por nombre. Lo ideal sería transformarlo en una lista y ocupar if/else para buscar usuario.# 
 
 #Convierte tu string en una lista, en la cual cada elemento es un usuario.#
 
